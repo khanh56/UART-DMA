@@ -3,8 +3,8 @@ UART-DMA: Communication between PC and Peripherals (DI, DO, AI, Handshake Protoc
 
 ## DEMO
 
-![GUI][img/gui.png]
+![GUI](img/gui.png)
 
 ## STM32F407
 
-![STM][img/hard.jpg]
+![STM](img/hard.jpg)
